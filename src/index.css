@@ -9,7 +9,9 @@ html {
 body {
   min-height: 100%;
   text-align: center;
+  height: 100%;
   text-shadow: 0 0 3px black, 0 0 5px black;
+  padding: 1rem;
 }
 
 h1 {
@@ -19,7 +21,6 @@ h1 {
 button {
   border-radius: 5px;
   width: auto;
-  border: none;
   font-size: 1rem;
   margin-top: 0.5rem;
 }
