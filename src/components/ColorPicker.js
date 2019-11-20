@@ -14,12 +14,12 @@ const ColorPicker = () => {
   }
 
   return (
-    <body
-      style={{
-        backgroundColor: `hsl(${hue}, ${saturation}%, ${lightness}%, ${alpha})`
-      }}
-    >
-      <main>
+    <div className='forImage'>
+      <div
+        style={{
+          backgroundColor: `hsl(${hue}, ${saturation}%, ${lightness}%, ${alpha})`
+        }}
+      >
         <h1>Color Picker</h1>
         <div>
           <section>
@@ -95,8 +95,8 @@ const ColorPicker = () => {
             Get a Random Color
           </button>
         </div>
-      </main>
-    </body>
+      </div>
+    </div>
   )
 }
 
