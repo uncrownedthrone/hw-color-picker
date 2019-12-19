@@ -7,15 +7,16 @@ html {
 }
 
 body {
-  min-height: 100%;
   text-align: center;
-  height: 100%;
-  text-shadow: 0 0 3px black, 0 0 5px black;
   padding: 1rem;
+  background-image: url('./images/background.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1 {
   color: white;
+  text-shadow: 0 0 3px black, 0 0 5px black;
 }
 
 button {
@@ -27,10 +28,24 @@ button {
 
 .textBox {
   color: white;
+  text-shadow: 0 0 3px black, 0 0 5px black;
 }
 
-.forImage {
-  height: 100%;
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 500px;
   width: 100%;
-  background-image: url('./images/ironman.jpg');
+  border-radius: 5px;
+}
+
+button {
+  outline: none;
+}
+
+footer {
+  color: white;
+  margin: 1rem;
 }
