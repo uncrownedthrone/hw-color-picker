@@ -7,10 +7,10 @@ This assignment was initially a simple one-night homework, but because of the re
 
 One of the only areas that proved to be a bit of a struggle was using CSS and custom elements to handle the alpha/transparency setting with the background image. While not required, after the assignment was over, I sought out our instructor and worked with him to solve this problem. After fixing it, I was left with a better understanding of not only transparency but flexbox and even HTML element/page structure.
 
+![p3-3](https://user-images.githubusercontent.com/52833074/73208512-9436eb80-4114-11ea-825f-6d8fe89ec931.jpg)
+
 Technologies Used:
 - React.js
 - useState and useEffect Hooks
 - HTML
 - CSS
-
-![p3-3](https://user-images.githubusercontent.com/52833074/73208512-9436eb80-4114-11ea-825f-6d8fe89ec931.jpg)
