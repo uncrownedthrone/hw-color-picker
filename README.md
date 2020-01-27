@@ -1,5 +1,5 @@
 # Random Color Picker
-## Deployed on Netlify: https://js-movies-and-apis.netlify.com
+## Deployed on Netlify: https://js-color-picker.netlify.com
 
 This assignment was a great introduction into the new hooks provided by React.js. Using useState and useEffect, I was able to create a custom color picker that allowed the user to set the hue, saturation, lightness, and alpha on the page. There is also a random color picker button that, when clicked, will randomize each of the four settings to produce a random color.
 
